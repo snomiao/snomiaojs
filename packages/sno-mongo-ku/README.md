@@ -76,7 +76,3 @@ Methods: `单增 单删 单改 单查 单查替 单查改 单查删 单补 单�
 
 Just like this:
 ![ctrl+space](docs/img/ctrl+space.png)
-
-## ref
-
-- [自动化发布npm包及生成Github Changelog]( https://banyudu.com/posts/auto_publish_npm_and_generate_github_changelog.882513 )
